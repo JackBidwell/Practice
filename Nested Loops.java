@@ -25,3 +25,7 @@ class NestedLoops {
 
     }
 }
+/*Rows will repeat a print until it reaches the value you have entered
+ * columns will repeat print until it reaches the value you have entered
+ * symbol is what the two values will be printing
+ */
