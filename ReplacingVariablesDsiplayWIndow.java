@@ -21,7 +21,7 @@ public class ReplacingVariablesDsiplayWIndow {
         JOptionPane.showMessageDialog(null, cars); 
         
         int whatoreplace = Integer.parseInt(JOptionPane.showInputDialog("What cars would you like to change?"));
-
+        
         int replacements = Integer.parseInt(JOptionPane.showInputDialog("What would you like to replace them with?"));
 
     }
